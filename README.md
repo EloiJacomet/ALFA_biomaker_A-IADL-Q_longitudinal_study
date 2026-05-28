@@ -1,6 +1,6 @@
 # Longitudinal Analysis and Prediction of Functional Decline in the ALFA+ Cohort
 
-This repository contains the complete analytical pipeline for my scientific thesis. The project investigates the longitudinal trajectories of biomarkers associated with functional decline and develops predictive models for clinically meaningful decline using data from the ALFA+ cohort.
+This repository contains the complete analytical pipeline for my 2026  Master's Thesis. The project investigates the longitudinal trajectories of biomarkers associated with functional decline and develops predictive models for clinically meaningful decline using data from the ALFA+ cohort.
 
 From an analytical and reproducibility perspective, all work is documented and structured into three dedicated R scripts, each corresponding to the main milestones of the project.
 
@@ -9,9 +9,6 @@ From an analytical and reproducibility perspective, all work is documented and s
 ## 📋 Table of Contents
 - [Project Overview](#project-overview)
 - [Repository Structure](#repository-structure)
-- [Pipeline & Scripts](#pipeline--scripts)
-- [Getting Started & Reproducibility](#getting-started--reproducibility)
-- [Dependencies](#dependencies)
 
 ---
 
